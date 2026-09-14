@@ -1,0 +1,6 @@
+librosa
+numpy
+pretty_midi
+matplotlib
+pygame
+argparse
