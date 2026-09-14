@@ -1,4 +1,4 @@
-add to midi converter
+audio to midi converter
 
 
 
@@ -10,24 +10,25 @@ detects transients and creates midi notes.
 
 to run:
 
-&#x09;install python 3.11 and ensure add to Path is checked
+- install python 3.11 and ensure add to Path is checked
+
+- install pip package manager
 
 
-&#x09;install pip package manager
+- place the audio track you want to analyse in the same folder
 
+- open a command prompt window and direct it to this folder
 
-&#x09;place the audio track you want to analyse in the same folder
-
-	open a command prompt window and direct it to this folder
-	you can do this by going to the address bar on windows and typing cmd and hitting enter
-
-&#x09;
-
-&#x09;install dependencies with pip install -r requirements.txt
+you can do this by going to the address bar on windows and typing cmd and hitting enter
 
 
 
-&#x09;run by typing 	    python main.py your\_track\_name.mp3	 and hitting enter		
+- install dependencies with pip install -r requirements.txt
+
+
+- run by typing
+  python main.py your\_track\_name.mp3
+  and hitting enter		
 
 
 
