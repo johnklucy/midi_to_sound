@@ -1,4 +1,4 @@
-audio to midi converter
+** audio to midi converter **
 
 
 
@@ -8,7 +8,7 @@ detects transients and creates midi notes.
 
 
 
-to run:
+** to run: **
 
 - install python 3.11 and ensure add to Path is checked
 
@@ -54,7 +54,7 @@ to close the app, hit ctrl-c or the x in the top right
 
 
 
-to do:
+** to do: **
 
 - add FFT for frequency dependent notes
 
