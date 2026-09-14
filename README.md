@@ -56,21 +56,21 @@ to close the app, hit ctrl-c or the x in the top right
 
 to do:
 
-&#x09;add FFT for frequency dependent notes
+- add FFT for frequency dependent notes
 
 
 
-&#x09;add realtime input and output(probably an exe written in C/C++ as python is too slow)
-	allow audio piping from other applications eg. reaper, logic, cubase, etc. using 
+- add realtime input and output(probably an exe written in C/C++ as python is too slow)
+
+- allow audio piping from other applications eg. reaper, logic, cubase, etc. using blackhole(mac) or soundflower, etc.
 
 
 
-&#x09;add drum hit detector (toms, kick, cymbal, hi-hat, snare)
+- add drum hit detector (toms, kick, cymbal, hi-hat, snare) using some sort of spectral analysis 
 
 
+- add DMX output for lighting console
 
-&#x09;add DMX output for lighting console
 
-
-&#x09;add stem separator (probably some ML)
+- add stem separator (probably some ML)
 
